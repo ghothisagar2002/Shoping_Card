@@ -1,0 +1,89 @@
+.navbar {
+    background-color: cadetblue;
+    border: 2px solid red;
+    padding: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+
+}
+
+img[alt="Image"] {
+    border: 5px solid green;
+    margin-top: 10px;
+}
+
+img[alt="Image_One"] {
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 5px dotted orangered;
+}
+
+.Container {
+    background-color: darkslategrey;
+    border: 5px double rgb(255, 0, 157);
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.Class_Container {
+    background-color: darkslategrey;
+    border: 5px double rgb(255, 0, 157);
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Practice_One {
+    background-color: yellowgreen;
+    color: cyan;
+    padding: 2rem;
+    margin: 5px;
+    border: 5px solid red;
+    border-radius: 10px;
+    /* text-align: center; */
+}
+
+.Paragraps {
+    background-color: blueviolet;
+    color: black;
+    padding: 2rem;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+img[alt="Lpu_image"] {
+    border: 2px solid black;
+    margin-top: 10px;
+}
+
+.tages {
+    color: black;
+}
+
+.SeethaRam {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.Incre_Decre_Container{
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.Parent{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    /* height: 200vh; */
+}
